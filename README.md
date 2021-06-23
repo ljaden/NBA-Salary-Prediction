@@ -1,5 +1,6 @@
 # Predicting NBA Player Salaries through Statistics
 
+## Abstract
 In every professional sport, player acquisitions during free agency is arguably one of the most important factors of a team's success when done correctly.
 We have seen Championship dreams solidify during this time, way before the season begins. With Lebron James and Chris Bosh joining the Miami Heats in 2010
 and Kevin Durant to the Golden State Warriors in 2016. On the other hand, we have contracts like Chandler Parson(4-Year, $94M and Joakim Noah(4-Year $72M) 
