@@ -18,10 +18,24 @@ In conclusion, the rise of analytics has enabled us to understand every aspect o
 Further analysis is required to understand the overvaluing and undervaluing of a player. As long as contracts are written and offered by humans there will always 
 be intangible factors but with advanced analytics and machine learning we can look forward to more accurately determining a players monetary value.
 
-## DATA Collection
+## DATA Collection // Exploration
 
 2000 individual contracts and player statistics were collected from Spotrac & Basketball-References API. After cleaning the data, 573 contracts with 10 features were
 used to train the models.
+
+
+
+Features were selected based on their correlation values to a players AAV
+
+
+
+## Linear Regression
+
+![Linear Regression Results](/Images/LR_results.png)
+
+## Random Forest Regressor
+
+![RFR Results](/Images/RFR_result.png)
 
 ## Future Work & Improvements
 
