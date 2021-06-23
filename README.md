@@ -23,11 +23,11 @@ be intangible factors but with advanced analytics and machine learning we can lo
 2000 individual contracts and player statistics were collected from Spotrac & Basketball-References API. After cleaning the data, 573 contracts with 10 features were
 used to train the models.
 
-
+![Contracts by Year](/Images/FA_signings_Per_Year.png)
 
 Features were selected based on their correlation values to a players AAV
 
-
+![Corr AAV and features](/Images/feature_correlation_W_AAV.png)
 
 ## Linear Regression
 
