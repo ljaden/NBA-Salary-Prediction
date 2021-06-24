@@ -27,7 +27,7 @@ used to train the models.
 
 Features were selected based on their correlation values to a players AAV
 
-![Corr AAV and features](/Images/feature_correlation_W_AAV2.png)
+![Corr AAV and features](/Images/feature_correlation_W_AAV3.png)
 
 ## Linear Regression
 
